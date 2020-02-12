@@ -1155,26 +1155,26 @@
             "name" : "Hudson Nuzzi",
             "contractYear" : "1"
           },
-          "rival" : "CIN"
+          "rival" : "UC"
         },
         {
-          "abbreviation" : "CIN",
+          "abbreviation" : "UC",
           "state" : "Ohio",
           "prestige" : "54",
           "name" : "Cincinnati",
           "headCoach" : {
-            "ratOff" : "48",
+            "ratOff" : "95",
             "contractLength" : "6",
-            "age" : "44",
+            "age" : "23",
             "startYear" : "2019",
             "cumulativePrestige" : "25",
-            "ratDef" : "61",
+            "ratDef" : "95",
             "homeState" : "Arizona",
             "ratPot" : "95",
-            "ratTalent" : "60",
-            "ratDiscipline" : "74",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
             "baselinePrestige" : "25",
-            "ratOvr" : "60",
+            "ratOvr" : "95",
             "name" : "Duke Obas",
             "contractYear" : "1"
           },
